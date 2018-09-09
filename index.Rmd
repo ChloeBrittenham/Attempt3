@@ -36,6 +36,6 @@ In past research I have examined VEPs or Visual Evoked Potentials in children wi
 
 
 <a href = "http://chloebrittenham.com">
-!('images/eyeball.png')
+![](images/eyeball.png)
 </a>
 </div>
