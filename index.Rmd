@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Website"
 output: html_document
 ---
 
@@ -8,7 +8,6 @@ output: html_document
   display: none;
 }
 
-#getting-started img {
   margin-right: 10px;
 }
 
@@ -17,7 +16,7 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Chloe Brittenham, PhD student in Psychology at the Graduate Center**
+# **Chloe Brittenham, PhD student in Psychology at The Graduate Center**
 
 I am a Graduate Assistant at Brooklyn College and Adjunct Lecturer at Hunter College. My research interests include Autism Spectrum Disorder, the visual system, binocular depth perception and more...
 
@@ -37,6 +36,6 @@ In past research I have examined VEPs or Visual Evoked Potentials in children wi
 
 
 <a href = "http://chloebrittenham.com">
-![](images/eyeball.png)
+!('images/eyeball.png')
 </a>
 </div>
